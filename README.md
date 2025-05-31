@@ -20,7 +20,7 @@ Whether it's creating immersive experiences or managing a community, I thrive in
 
 - ✅ Lua Scripting
 - 🏗️ Building
-- 🎨 UI/UX Design
+- 🎨 UI Design
 - ✨ VFX / GFX
 - 🔒 Moderation & Community Management
 - 📋 Team Leadership
