@@ -12,42 +12,57 @@ Whether it's creating immersive experiences or managing a community, I thrive in
 
 - 🎨 **Artist** on the hit game **Blade Ball**
 - 🧪 **Tester** for **One Touch**
+- 🛠️ **Developer** for **Blade [In Dev]**
+- 🌐 **Community Lead** & **Partnership Manager** for **Shonen Lock**
 - 🤝 Open to work as a **developer** or part of a **staff team** on any Roblox project!
 
 ---
 
 ## 🛠️ Skills
 
-- ✅ Lua Scripting
-- 🏗️ Building
-- 🎨 UI Design
-- ✨ VFX / GFX
-- 🔒 Moderation & Community Management
-- 📋 Team Leadership
+- ✅ Lua Scripting  
+- 🏗️ Building  
+- 🎨 UI Design  
+- ✨ VFX / GFX  
+- 🔒 Moderation & Community Management  
+- 📋 Team Leadership  
 
 ---
 
 ## 🎮 Projects
 
-### 🔹 Blade Ball
+### 🔹 Blade Ball  
 **Role:** Artist  
 Contributed visual assets and effects for the popular Roblox game *Blade Ball*, helping bring its fast-paced gameplay to life.
 
 ---
 
-### 🔹 One Touch
+### 🔹 One Touch  
 **Role:** Tester  
 Currently testing and providing feedback for gameplay, bugs, and user experience improvements to support a smooth and polished launch.
 
 ---
 
+### 🔹 Blade [In Dev]  
+**Role:** Developer  
+Currently working as a developer on the in-progress Roblox project *Blade*, contributing to its systems and gameplay foundation.
+
+---
+
+### 🔹 Shonen Lock  
+**Roles:** Community Lead, Partnership Manager  
+Helping manage the community and grow strategic partnerships to strengthen the project's outreach and engagement.
+
+---
+
 ## 📬 Contact Me
 
-- **Discord:** `nqsdev`
+- **Discord:** `nqsdev`  
 - **Email:** `biboidiosdweg@gmail.com`
 
 ---
 
 > 💼 I'm currently open to freelance work, commissions, staff positions, or long-term dev teams. If you're building something awesome — let's connect!
+
 
 
