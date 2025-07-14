@@ -55,6 +55,12 @@ Helping manage the community and grow strategic partnerships to strengthen the p
 
 ---
 
+### 🔹 Huzz RNG  
+**Role:** Moderator  
+Moderating the game's community, maintaining a safe and friendly environment, and supporting players in-game and on social platforms.
+
+---
+
 ## 📬 Contact Me
 
 - **Discord:** `nqsdev`  
