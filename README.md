@@ -12,7 +12,7 @@ Whether it's creating immersive experiences or managing a community, I thrive in
 
 - 🎨 **Artist** on the hit game **Blade Ball**
 - 🧪 **Tester** for **One Touch**
-- 🛠️ **Developer** for **Blade [In Dev]**
+- 🛠️ **Lead Developer** for **Blade [In Dev]**
 - 🌐 **Community Lead** & **Partnership Manager** for **Shonen Lock**
 - 🤝 Open to work as a **developer** or part of a **staff team** on any Roblox project!
 
@@ -44,7 +44,7 @@ Currently testing and providing feedback for gameplay, bugs, and user experience
 ---
 
 ### 🔹 Blade [In Dev]  
-**Role:** Developer  
+**Role:** Lead Developer  
 Currently working as a developer on the in-progress Roblox project *Blade*, contributing to its systems and gameplay foundation.
 
 ---
