@@ -14,7 +14,7 @@ Whether it's creating immersive experiences or managing a community, I thrive in
 - 🧪 **Tester** for **One Touch**
 - 🛠️ **Lead Developer** for **Blade [In Dev]**
 - 🌐 **Community Lead** & **Partnership Manager** for **Shonen Lock**
-- 🤝 Open to work as a **developer** or part of a **staff team** on any Roblox project!
+- 🤝 Open to work as a **developer**, part of a **staff team** or **Tester** on any Roblox project!
 
 ---
 
@@ -50,13 +50,13 @@ Currently working as a developer on the in-progress Roblox project *Blade*, cont
 ---
 
 ### 🔹 Shonen Lock  
-**Roles:** Community Lead, Partnership Manager  
+**Roles:** Community Lead & Partnership Manager  
 Helping manage the community and grow strategic partnerships to strengthen the project's outreach and engagement.
 
 ---
 
 ### 🔹 Huzz RNG  
-**Role:** Moderator  
+**Role:** Moderator & Tester
 Moderating the game's community, maintaining a safe and friendly environment, and supporting players in-game and on social platforms.
 
 ---
