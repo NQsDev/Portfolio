@@ -25,6 +25,7 @@ Whether it's creating immersive experiences or managing a community, I thrive in
 - 🎨 UI Design  
 - ✨ VFX / GFX  
 - 🔒 Moderation & Community Management  
+-  :BugHunter: Testing for bugs and issues
 - 📋 Team Leadership  
 
 ---
