@@ -27,7 +27,7 @@ Whether it's creating immersive experiences or managing a community, I thrive in
 ## 🎮 Projects
 
 ### 🔹 Blade Ball  
-**Role:** Artist  
+**Role:** Artist (Former) 
 
 Contributed visual assets and effects for the popular Roblox game *Blade Ball*, helping bring its fast-paced gameplay to life.
 
@@ -55,7 +55,7 @@ Helping manage the community and grow strategic partnerships to strengthen the p
 ---
 
 ### 🔹 Huzz RNG  
-**Role:** Moderator & Tester 
+**Role:** Retired Staff (Senior Moderator) & Tester 
 
 Moderating the game's community, maintaining a safe and friendly environment, and supporting players in-game and on social platforms, Test for any bugs in the game.
 
