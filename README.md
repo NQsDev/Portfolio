@@ -61,6 +61,12 @@ Moderating the game's community, maintaining a safe and friendly environment, an
 
 ---
 
+### 🔹Dodgeball:Showdown
+**Role:** Senior Tester
+
+leads QA by designing test plans, building automation, and ensuring game features are high-quality across all platforms.
+
+---
 ## 📬 Contact Me
 
 - **Discord:** `nqsdev`  
