@@ -26,42 +26,56 @@ Whether it's creating immersive experiences or managing a community, I thrive in
 
 ## 🎮 Projects
 
-### 🔹 Blade Ball  
+### 🔹 Blade Ball (704k)
 **Role:** Artist (Former) 
 
 Contributed visual assets and effects for the popular Roblox game *Blade Ball*, helping bring its fast-paced gameplay to life.
 
 ---
 
-### 🔹 One Touch  
+### 🔹 One Touch (65k)
 **Role:** Tester 
  
 Currently testing and providing feedback for gameplay, bugs, and user experience improvements to support a smooth and polished launch.
 
 ---
 
-### 🔹 Blade [In Dev]  
+### 🔹Hunty Zombie (258.7k)
+**Role:** Tester
+
+Find bugs, test features, and ensure smooth gameplay before updates.
+
+---
+
+### 🔹 Blade [In Dev]  (5k)
 **Role:** Lead Developer  
 
 Currently working as a developer on the in-progress Roblox project *Blade*, contributing to its systems and gameplay foundation.
 
 ---
 
-### 🔹 Shonen Lock  
+### 🔹 Project Spherite (863)
+**Role:** Developer
+
+Build gameplay, UI, and features with Lua; focus on quick fixes, prototyping, and smooth player experiences.
+
+---
+
+### 🔹 Shonen Lock (10k)
 **Roles:** Community Lead & Partnership Manager  
 
 Helping manage the community and grow strategic partnerships to strengthen the project's outreach and engagement.
 
 ---
 
-### 🔹 Huzz RNG  
+### 🔹 Huzz RNG  (43k)
 **Role:** Retired Staff (Senior Moderator & Support Staff) & Tester 
 
 Moderating the game's community, maintaining a safe and friendly environment, and supporting players in-game and on social platforms, Test for any bugs in the game.
 
 ---
 
-### 🔹Dodgeball:Showdown
+### 🔹 Dodgeball:Showdown (7k)
 **Role:** Senior Tester
 
 leads QA by designing test plans, building automation, and ensuring game features are high-quality across all platforms.
