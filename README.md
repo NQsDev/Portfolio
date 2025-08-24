@@ -61,8 +61,8 @@ Build gameplay, UI, and features with Lua; focus on quick fixes, prototyping, an
 
 ---
 
-### 🔹 Shonen Lock (10k)
-**Roles:** Community Lead & Partnership Manager  
+### 🔹 Shonen Lock (5k)
+**Roles:** Community Lead & QA Manager 
 
 Helping manage the community and grow strategic partnerships to strengthen the project's outreach and engagement.
 
