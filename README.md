@@ -29,7 +29,7 @@ Whether it's creating immersive experiences or managing a community, I thrive in
 ### 🔹 Blade Ball (704k)
 **Role:** Artist (Former) 
 
-Contributed visual assets and effects for the popular Roblox game *Blade Ball*, helping bring its fast-paced gameplay to life.
+Contributed visual assets and effects, helped bringing its fast-paced gameplay to life.
 
 ---
 
