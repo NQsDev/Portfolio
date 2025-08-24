@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate Roblox developer skilled in scripting, building, UI/UX design, VFX, GFX, Tester and community moderation. I bring creativity, efficiency, and team spirit to every project I join.
+I'm a passionate Roblox developer skilled in scripting, building, UI/UX design, VFX, GFX, Tester and community moderation & Leadership. I bring creativity, efficiency, and team spirit to every project I join.
 
 Whether it's creating immersive experiences or managing a community, I thrive in all aspects of game development.
 
