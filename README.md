@@ -67,6 +67,12 @@ Build gameplay, UI, and features with Lua; focus on quick fixes, prototyping, an
 Oversee quality assurance to ensure reliable, high-standard products while also leading and engaging the community to foster collaboration, communication, and growth.
 
 ---
+### 🔹 Clover [In-Dev] (13K)
+**Roles:** Contributor & Partnership Manager
+
+Managed partnerships and collaborations to expand Clover’s reach, strengthen community engagement, and drive growth ahead of launch.
+
+---
 
 ### 🔹 Huzz RNG  (43k)
 **Role:** Retired Staff (Senior Moderator & Support Staff) & Tester 
