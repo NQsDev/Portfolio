@@ -40,7 +40,7 @@ Currently testing and providing feedback for gameplay, bugs, and user experience
 
 ---
 
-### 🔹Hunty Zombie (585K)
+### 🔹Hunty Zombie (610K)
 **Role:** Tester
 
 Find bugs, test features, and ensure smooth gameplay before updates.
