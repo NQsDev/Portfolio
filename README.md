@@ -48,7 +48,7 @@ Find bugs, test features, and ensure smooth gameplay before updates.
 ---
 
 ### 🔹 Blade [In Dev]  (5k)
-**Role:** Lead Developer  
+**Role:** Lead Developer  & Project Manager
 
 Currently working as a developer on the in-progress Roblox project *Blade*, contributing to its systems and gameplay foundation.
 
