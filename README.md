@@ -83,7 +83,7 @@ Whether it's creating immersive experiences or managing a community, I thrive in
 
 ---
 
-### 🔹Urban resign 
+### 🔹Urban resign (3.5k)
 **Role:** CO-Founder &  Developer (Scripter)
 
 ---
@@ -93,12 +93,12 @@ Whether it's creating immersive experiences or managing a community, I thrive in
 
 ---
 
-### 🔹 Valor DEVS
+### 🔹 Valor DEVS (Studio Company)
 **Role:** Developer (Scripter)
 
 ---
 
-### 🔹Blast Arena
+### 🔹Blast Arena (493)
 **Role:** Developer (Scripter)
 
 ## 📬 Contact Me
