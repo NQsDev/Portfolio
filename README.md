@@ -29,64 +29,78 @@ Whether it's creating immersive experiences or managing a community, I thrive in
 ### 🔹 Blade Ball (704k)
 **Role:** Artist (Former) 
 
-Contributed visual assets and effects, helped bringing its fast-paced gameplay to life.
-
 ---
 
 ### 🔹 One Touch (65k)
 **Role:** Tester 
- 
-Currently testing and providing feedback for gameplay, bugs, and user experience improvements to support a smooth and polished launch.
 
 ---
 
-### 🔹Hunty Zombie (610K)
+### 🔹Hunty Zombie (690K)
 **Role:** Tester
-
-Find bugs, test features, and ensure smooth gameplay before updates.
 
 ---
 
 ### 🔹 Blade [In Dev]  (5k)
-**Role:** Lead Developer  & Project Manager
+**Role:** Lead Developer (Scripter & Builder)  & Project Manager
 
-Currently working as a developer on the in-progress Roblox project *Blade*, contributing to its systems and gameplay foundation.
 
 ---
 
-### 🔹 Project Spherite (863)
-**Role:** Developer
+### 🔹 Project Spherite (1k)
+**Role:** Developer (Scripter)
 
-Build gameplay, UI, and features with Lua; focus on quick fixes, prototyping, and smooth player experiences.
 
 ---
 
 ### 🔹 Shonen Lock (5k)
-**Roles:** Community Lead & QA Manager (Former Partnership Manager)
-
-Oversee quality assurance to ensure reliable, high-standard products while also leading and engaging the community to foster collaboration, communication, and growth.
+**Roles:** Former Community Lead & QA Manager & Partnership Manager
 
 ---
-### 🔹 Clover [In-Dev] (13K)
-**Roles:** Contributor & Partnership Manager
 
-Managed partnerships and collaborations to expand Clover’s reach, strengthen community engagement, and drive growth ahead of launch.
+### 🔹 Clover [In-Dev] (13K)
+**Roles:** Tester ( Former Contributor & Partnership Manager)
 
 ---
 
 ### 🔹 Huzz RNG  (43k)
 **Role:** Retired Staff (Senior Moderator & Support Staff) & Tester 
 
-Moderating the game's community, maintaining a safe and friendly environment, and supporting players in-game and on social platforms, Test for any bugs in the game.
-
 ---
 
 ### 🔹 Dodgeball:Showdown (7k)
 **Role:** Senior Tester
 
-leads QA by designing test plans, building automation, and ensuring game features are high-quality across all platforms.
+---
+
+### 🔹 Wagarashi (60k)
+**Role:** Tester
 
 ---
+
+### 🔹 Bounded (20k)
+**Role:** Lead Developer (Scripter & Buider) & QA Manager
+
+---
+
+### 🔹Urban resign 
+**Role:** CO-Founder &  Developer (Scripter)
+
+---
+
+### 🔹 Blackline (Studio Company)
+**Role:** Developer (Scripter)
+
+---
+
+### 🔹 Valor DEVS
+**Role:** Developer (Scripter)
+
+---
+
+### 🔹Blast Arena
+**Role:** Developer (Scripter)
+
 ## 📬 Contact Me
 
 - **Discord:** `nqsdev`  
