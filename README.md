@@ -98,6 +98,10 @@ Whether it's creating immersive experiences or managing a community, I thrive in
 
 ---
 
+### 🔹Laycorps (Studio Company)
+**Role:** Manager
+
+---
 ### 🔹Blast Arena (493)
 **Role:** Developer (Scripter)
 
