@@ -74,7 +74,7 @@ Whether it's creating immersive experiences or managing a community, I thrive in
 ---
 
 ### 🔹 Wagarashi (60k)
-**Role:** Tester
+**Role:** Tester & Game-Moderator & Support Staff
 
 ---
 
