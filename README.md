@@ -54,7 +54,7 @@ Whether it's creating immersive experiences or managing a community, I thrive in
 ---
 
 ### 🔹 Shonen Lock (5k)
-**Roles:** Former Community Lead & QA Manager & Partnership Manager
+**Roles:** Former Community Lead, QA Manager, Partnership Manager & Support Manager
 
 ---
 
