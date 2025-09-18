@@ -94,7 +94,7 @@ Whether it's creating immersive experiences or managing a community, I thrive in
 ---
 
 ### 🔹 Valor DEVS (Studio Company)
-**Role:** Developer (Scripter)
+**Role:** Developer (Scripter) & Game Manager
 
 ---
 
