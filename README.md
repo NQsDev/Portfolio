@@ -1,12 +1,12 @@
 # 👋 Hi, I'm NQs
 
-**Roblox Developer** – Scripter | Builder | UI/UX | VFX | GFX | Moderator
+**Roblox Developer** – Scripter | Builder | UI/UX | VFX | GFX 
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a passionate Roblox developer skilled in scripting, building, UI/UX design, VFX, GFX, Tester and community moderation & Leadership. I bring creativity, efficiency, and team spirit to every project I join.
+I'm a passionate Roblox developer skilled in scripting, building, UI/UX design, VFX, GFX, Tester and community moderation or Administration & Leadership. I bring creativity, efficiency, and team spirit to every project I join.
 
 Whether it's creating immersive experiences or managing a community, I thrive in all aspects of game development.
 
@@ -18,8 +18,9 @@ Whether it's creating immersive experiences or managing a community, I thrive in
 - 🏗️ Building  
 - 🎨 UI Design  
 - ✨ VFX / GFX  
-- 🔒 Moderation & Community Management  
-- 🧪 Testing 
+- 🔒 Moderation & Community Management
+- 🎫 Support Staff & Support Management
+- 🧪 Tester & QA Management
 - 📋 Team Leadership  
 
 ---
