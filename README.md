@@ -32,6 +32,11 @@ Whether it's creating immersive experiences or managing a community, I thrive in
 
 ---
 
+### 🔹 My Singing Brainrot (12.1k)
+**Role:** Staff Supervisor
+
+---
+
 ### 🔹 One Touch (65k)
 **Role:** Tester 
 
