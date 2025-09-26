@@ -42,7 +42,7 @@ Whether it's creating immersive experiences or managing a community, I thrive in
 
 ---
 
-### 🔹Hunty Zombie (690K)
+### 🔹Hunty Zombie (750K)
 **Role:** Tester
 
 ---
@@ -50,12 +50,15 @@ Whether it's creating immersive experiences or managing a community, I thrive in
 ### 🔹 Blade [In Dev]  (5k)
 **Role:** Lead Developer (Scripter & Builder)  & Project Manager
 
+---
+
+### 🔹 Mageborn [In-Dev] (23k)
+**Role:** Administrator 
 
 ---
 
 ### 🔹 Project Spherite (1k)
 **Role:** Developer (Scripter)
-
 
 ---
 
@@ -100,7 +103,7 @@ Whether it's creating immersive experiences or managing a community, I thrive in
 ---
 
 ### 🔹 Blackline (Studio Company)
-**Role:** Developer (Scripter)
+**Role:** Developer (Scripter) & Executive
 
 ---
 
