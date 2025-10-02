@@ -57,6 +57,11 @@ Whether it's creating immersive experiences or managing a community, I thrive in
 
 ---
 
+### 🔹 Pick Six Football [DEV] (7k)
+**Role:** Administrator
+
+---
+
 ### 🔹 Project Spherite (1k)
 **Role:** Developer (Scripter)
 
