@@ -77,7 +77,7 @@ Whether it's creating immersive experiences or managing a community, I thrive in
 
 ---
 
-### 🔹 Huzz RNG  (43k)
+### 🔹 Huzz RNG  (60k)
 **Role:** Retired Staff (Senior Moderator & Support Staff) & Tester 
 
 ---
