@@ -1,6 +1,29 @@
-# 👋 Hi, I'm NQs
+<!-- 🕶️ NQs Portfolio (Dark Mode Aesthetic) -->
+<div align="center">
 
-**Roblox Developer** – Scripter | Builder | UI/UX | VFX | GFX 
+# 👋 Hi, I'm <span style="color:#00FFFF;">NQs</span>  
+🎮 <b>Roblox Developer</b>  
+💻 <i>Scripter | Builder | UI/UX | VFX | GFX</i>
+
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:0066ff&height=150&section=header&text=NQs%20Developer%20Portfolio&fontSize=25&fontColor=ffffff)
+
+---
+
+### 🧑‍💻 About Me
+```python
+ NQsDev:
+    def __init__(self):
+        self.role = Roblox Developer & Management
+        self.skills = 
+            Scripting, "Building", UI/UX Design, 
+            VFX, GFX, Testing, 
+            Community Management, Leadership
+        
+        self.traits = Creative, Efficient, Collaborative
+
+    def goal(self):
+        return Create immersive, high-quality Roblox experiences.
+
 
 ---
 
@@ -124,6 +147,7 @@ Whether it's creating immersive experiences or managing a community, I thrive in
 ### 🔹Blast Arena (493)
 **Role:** Developer (Scripter)
 
+
 ## 📬 Contact Me
 
 - **Discord:** `nqsdev`  
@@ -132,6 +156,7 @@ Whether it's creating immersive experiences or managing a community, I thrive in
 ---
 
 > 💼 I'm currently open to freelance work, commissions, staff positions, Tester, or long-term dev teams. If you're building something awesome — let's connect!
+
 
 
 
