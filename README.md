@@ -5,7 +5,7 @@
 🎮 <b>Roblox Developer</b>  
 💻 <i>Scripter | Builder | UI/UX | VFX | GFX</i>
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:0066ff&height=150&section=header&text=NQs%20Developer%20Portfolio&fontSize=25&fontColor=ffffff)
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:0066ff&height=150&section=header&text=NQs%20%20Portfolio&fontSize=25&fontColor=ffffff)
 
 ---
 
