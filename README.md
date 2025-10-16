@@ -150,8 +150,8 @@ Whether it's creating immersive experiences or managing a community, I thrive in
 
 ## 📬 Contact Me
 
-- **Discord:** `nqsdev`  
-- **Email:** `biboidiosdweg@gmail.com`
+- **Discord:** nqsdev  
+- **Email:** biboidiosdweg@gmail.com
 
 ---
 
