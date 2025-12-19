@@ -29,7 +29,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate Roblox developer skilled in scripting, building, UI/UX design, VFX, GFX, Tester and community moderation or Administration & Leadership. I bring creativity, efficiency, and team spirit to every project I join.
+I'm a passionate Roblox developer skilled in scripting, building, UI/UX design, Tester and community moderation or Administration & Leadership. I bring creativity, efficiency, and team spirit to every project I join.
 
 Whether it's creating immersive experiences or managing a community, I thrive in all aspects of game development.
 
@@ -40,11 +40,11 @@ Whether it's creating immersive experiences or managing a community, I thrive in
 - ✅ Lua Scripting  
 - 🏗️ Building  
 - 🎨 UI Design  
-- ✨ VFX / GFX  
-- 🔒 Moderation & Community Management
+- ✨ Project Management/Game Lead
+- 🔒 Moderation & Community/Staff Management
 - 🎫 Support Staff & Support Management
 - 🧪 Tester & QA Management
-- 📋 Team Leadership  
+- 📋 Team Leadership & Administration 
 
 ---
 
@@ -65,8 +65,33 @@ Whether it's creating immersive experiences or managing a community, I thrive in
 
 ---
 
-### 🔹Hunty Zombie (750K)
+### 🔹 Driving Empire (240k)
+**Role:** Trial Moderator
+
+---
+
+### 🔹 Curve Ball (950)
 **Role:** Tester
+
+---
+
+### 🔹Cyan Strike (3.5k)
+**Role:** Administrator
+
+---
+
+### 🔹No CCU Games (1M+)
+**Role:** Administrator
+
+---
+
+### 🔹Brainrot Defenders (1.3k)
+**Role:** Staff
+
+---
+
+### 🔹Hunty Zombie (820K)
+**Role:** Former Tester Admin/QA Manager Assistant, Developers Assistant & Support Staff
 
 ---
 
@@ -80,7 +105,7 @@ Whether it's creating immersive experiences or managing a community, I thrive in
 
 ---
 
-### 🔹 Pick Six Football [DEV] (7k)
+### 🔹 Pick Six Football [DEV] (9k)
 **Role:** Administrator
 
 ---
@@ -90,13 +115,13 @@ Whether it's creating immersive experiences or managing a community, I thrive in
 
 ---
 
-### 🔹 Shonen Lock (5k)
-**Roles:** Former Community Lead, QA Manager, Partnership Manager & Support Manager
+### 🔹 Shonen Lock (7k)
+**Roles:** Former Community Lead, QA Manager & Partnership Manager 
 
 ---
 
 ### 🔹 Clover [In-Dev] (13K)
-**Roles:** Tester ( Former Contributor & Partnership Manager)
+**Roles:**Former Tester, Partnership Manager & Contributor
 
 ---
 
@@ -106,27 +131,32 @@ Whether it's creating immersive experiences or managing a community, I thrive in
 ---
 
 ### 🔹 Dodgeball:Showdown (7k)
-**Role:** Senior Tester
+**Role:** Former Senior Tester
 
 ---
 
 ### 🔹FlowXI (134k)
-**Role:** Administrator (former)
+**Role:** Former Administrator 
 
 ---
 
-### 🔹 Wagarashi (60k)
-**Role:** Tester & Game-Moderator & Support Staff
+### 🔹 Wagarashi (63k)
+**Role:** Tester & Support Staff
 
 ---
 
 ### 🔹 Bounded (20k)
-**Role:** Lead Developer (Scripter & Buider) & QA Manager
+**Role:** Former Lead Developer (Scripter & Buider) & QA Manager
 
 ---
 
 ### 🔹Urban resign (3.5k)
-**Role:** CO-Founder &  Developer (Scripter)
+**Role:** Co-Founder &  Developer (Scripter)
+
+---
+
+### 🔹 Arise Studio (Studio Company)
+**Role:** Project Manager/Game Lead, QA Manager, Head of HR
 
 ---
 
@@ -136,7 +166,7 @@ Whether it's creating immersive experiences or managing a community, I thrive in
 ---
 
 ### 🔹 Valor DEVS (Studio Company)
-**Role:** Developer (Scripter) & Game Manager
+**Role:** Developer (Scripter) & Game Manager/Lead
 
 ---
 
