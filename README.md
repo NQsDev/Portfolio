@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm <span style="color:#00FFFF;">NQs</span>  
 🎮 <b>Roblox Developer</b>  
-💻 <i>Scripter | Builder | UI/UX | VFX | GFX</i>
+💻 <i>Scripter/Programmer | Builder | UI/UX </i>
 
 ![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:0066ff&height=150&section=header&text=NQs%20%20Portfolio&fontSize=25&fontColor=ffffff)
 
@@ -16,7 +16,7 @@
         self.role = Roblox Developer & Management
         self.skills = 
             Scripting, "Building", UI/UX Design, 
-            VFX, GFX, Testing, 
+            Testing, 
             Community Management, Leadership
         
         self.traits = Creative, Efficient, Collaborative
