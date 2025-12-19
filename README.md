@@ -185,7 +185,7 @@ Whether it's creating immersive experiences or managing a community, I thrive in
 
 ---
 
-> 💼 I'm currently open to freelance work, commissions, staff positions, Tester, or long-term dev teams. If you're building something awesome — let's connect!
+> 💼 I'm currently open to freelance work, commissions, staff positions/Management, Tester, or long-term dev teams. If you're building something awesome — let's connect!
 
 
 
