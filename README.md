@@ -80,6 +80,11 @@ Whether it's creating immersive experiences or managing a community, I thrive in
 
 ---
 
+### 🔹The Russian Experiement (3.5k)
+**Role:** Project Manager
+
+---
+
 ### 🔹No CCU Games (1M+)
 **Role:** Administrator
 
