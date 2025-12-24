@@ -70,7 +70,7 @@ Whether it's creating immersive experiences or managing a community, I thrive in
 
 ---
 
-### 🔹 Curve Ball (950)
+### 🔹 Curve Ball (1.2k)
 **Role:** Tester
 
 ---
