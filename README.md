@@ -50,10 +50,6 @@ Whether it's creating immersive experiences or managing a community, I thrive in
 
 ## 🎮 Projects
 
-### 🔹 Blade Ball (704k)
-**Role:** Artist (Former) 
-
----
 
 ### 🔹 My Singing Brainrot (12.1k)
 **Role:** Administrator & Staff Manager
