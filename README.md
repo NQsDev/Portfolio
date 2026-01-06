@@ -77,7 +77,7 @@ Whether it's creating immersive experiences or managing a community, I thrive in
 ---
 
 ### 🔹The Russian Experiement (3.5k)
-**Role:** Project Manager
+**Role:** Former Project Manager
 
 ---
 
