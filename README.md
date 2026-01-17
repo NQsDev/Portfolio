@@ -92,7 +92,7 @@ Whether it's creating immersive experiences or managing a community, I thrive in
 ---
 
 ### 🔹Hunty Zombie (820K)
-**Role:** Former Tester Admin/QA Manager Assistant, Developers Assistant & Support Staff
+**Role:** Former QA Lead/QA Manager Assistant, Developers Assistant & Support Staff
 
 ---
 
