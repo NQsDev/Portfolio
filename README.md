@@ -9,27 +9,9 @@
 
 ---
 
-### 🧑‍💻 About Me
-```python
- NQsDev:
-    def __init__(self):
-        self.role = Roblox Developer & Management
-        self.skills = 
-            Scripting, "Building", UI/UX Design, 
-            Testing, 
-            Community Management, Leadership
-        
-        self.traits = Creative, Efficient, Collaborative
-
-    def goal(self):
-        return Create immersive, high-quality Roblox experiences.
-
-
----
-
 ## 🧑‍💻 About Me
 
-I'm a passionate Roblox developer skilled in scripting, building, UI/UX design, Tester and community moderation or Administration & Leadership. I bring creativity, efficiency, and team spirit to every project I join.
+I'm a passionate Roblox developer skilled in scripting, building,Testing and community moderation or Administration & Leadership. I bring creativity, efficiency, and team spirit to every project I join.
 
 Whether it's creating immersive experiences or managing a community, I thrive in all aspects of game development.
 
