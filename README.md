@@ -21,7 +21,6 @@ Whether it's creating immersive experiences or managing a community, I thrive in
 
 - ✅ Lua Scripting  
 - 🏗️ Building  
-- 🎨 UI Design  
 - ✨ Project Management/Game Lead
 - 🔒 Moderation & Community/Staff Management
 - 🎫 Support Staff & Support Management
@@ -40,6 +39,11 @@ Whether it's creating immersive experiences or managing a community, I thrive in
 
 ### 🔹 One Touch (65k)
 **Role:** Tester 
+
+---
+
+### 🔹 Blue Lock Rivals (1.8M)
+**Role:** Tester
 
 ---
 
@@ -134,7 +138,7 @@ Whether it's creating immersive experiences or managing a community, I thrive in
 ---
 
 ### 🔹Urban resign (3.5k)
-**Role:** Co-Founder &  Developer (Scripter)
+**Role:** Former Co-Founder &  Developer (Scripter)
 
 ---
 
