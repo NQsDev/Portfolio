@@ -42,6 +42,9 @@ Whether it's creating immersive experiences or managing a community, I thrive in
 
 ---
 
+### 🔹 Escape Tsunami for Brainrots (150k+)
+**Role:** Tester
+
 ### 🔹 Blue Lock Rivals (1.8M)
 **Role:** Tester
 
