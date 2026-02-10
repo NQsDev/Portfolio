@@ -53,7 +53,7 @@ Whether it's creating immersive experiences or managing a community, I thrive in
 ---
 
 ### 🔹 Driving Empire (240k)
-**Role:** Trial Moderator
+~~**Role:** Trial Moderator~~
 
 ---
 
