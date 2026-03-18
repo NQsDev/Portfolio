@@ -78,7 +78,7 @@ Whether it's creating immersive experiences or managing a community, I thrive in
 ---
 
 ### 🔹Brainrot Defenders (1.3k)
-**Role:** Staff
+**Role:** Staff & Contributor
 
 ---
 
