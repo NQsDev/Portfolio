@@ -11,13 +11,13 @@ I am comfortable both developing gameplay systems and supporting the people behi
 
 🔨 Skills:
 
--Lua Scripting <br>
--Building / Environment Design <br>
--Project Management (Game Lead) <br>
--Moderation & Community Management <br>
--Support Staff Management <br>
--Testing & QA <br>
--Team Leadership & Administration <br>
+-Lua Scripting 💻<br>
+-Building / Environment Design 🏗️ <br>
+-Project Management (Game Lead) ✨ <br>
+-Moderation & Community Management 🔒 <br>
+-Support Staff Management 📋 <br>
+-Testing & QA 🧪 <br>
+-Team Leadership & Administration 🧑‍💼 <br>
 
 📜 Projects:
 
