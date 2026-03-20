@@ -1,6 +1,3 @@
-<!-- 🕶️ NQs Portfolio (Dark Mode Aesthetic) -->
-<div align="center">
-
 # 👋 Hi, I'm <span style="color:#00FFFF;">NQsDev</span>  
 🎮 <b>Roblox Developer</b>  
 💻 <i>Scripter/Programmer | Builder | UI/UX </i>
