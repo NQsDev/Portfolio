@@ -18,7 +18,7 @@
 Discord: nqsdev  
 Email: biboidiosdweg@gmail.com
 
-> 💼 I'm currently open to freelance work, commissions, staff positions/Management, Tester, or long-term dev teams. If you're building something awesome — let's connect!
+💼 I'm currently open to freelance work, commissions, staff positions/Management, Tester, or long-term dev teams. If you're building something awesome — let's connect!
 
 
 
