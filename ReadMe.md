@@ -26,23 +26,20 @@ Whether it's creating immersive experiences or managing a community, I thrive in
 ## 🎮 Projects
 
 
-🔹 My Singing Brainrot (12.1k)
+My Singing Brainrot (12.1k)
 **Role:** Administrator & Staff/Support Manager
 
-🔹 One Touch (65k)
-**Role:** Tester 
+One Touch (65k)
+Role: Tester 
 
-🔹 Escape Tsunami for Brainrots (150k+)
-**Role:** Tester
+Escape Tsunami for Brainrots (150k+)
+Role: Tester
 
-🔹 Blue Lock Rivals (1.8M)
-**Role:** Tester
+Blue Lock Rivals (1.8M)
+Role: Tester
 
-🔹 Driving Empire (240k)
-~~**Role:** Trial Moderator~~
-
-🔹 Curve Ball (1.2k)
-**Role:** Tester
+Curve Ball (1.2k)
+Role: Tester
 
 🔹Cyan Strike (3.5k)
 **Role:** Administrator
