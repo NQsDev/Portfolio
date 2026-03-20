@@ -10,6 +10,7 @@ I am a Roblox developer focused on scripting, building, and overall game develop
 I am comfortable both developing gameplay systems and supporting the people behind them—whether that means improving user experience, managing staff, or ensuring smooth operations.
 
 🔨 Skills:
+
 -Lua Scripting <br>
 -Building / Environment Design <br>
 -Project Management (Game Lead) <br>
