@@ -6,22 +6,17 @@
 
 💫 About Me:
 
-🔨 Who I am currently working with:
+
+🔨 Skills:
 
 
-📜 What I have currently made:
-
-
-🌱 I am currently learning:
-
-
-🧠 What I hope to learn in the future:
+📜 Projects:
 
 
 📬 Contact Me
 
-- **Discord:** nqsdev  
-- **Email:** biboidiosdweg@gmail.com
+Discord: nqsdev  
+Email: biboidiosdweg@gmail.com
 
 > 💼 I'm currently open to freelance work, commissions, staff positions/Management, Tester, or long-term dev teams. If you're building something awesome — let's connect!
 
